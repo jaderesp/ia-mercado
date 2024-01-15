@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.15.0",
+    "axios": "^1.6.5",
+    "express": "^4.18.2",
+    "fs.promises": "^0.1.2",
+    "nodemon": "^3.0.2",
+    "yahoo-finance-webscraper": "^3.0.1"
+  }
+}
