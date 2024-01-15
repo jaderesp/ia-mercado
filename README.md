@@ -24,6 +24,10 @@ nodejs:
 ```javascript
 npm install
 ```
+Iniciar o script:
+```javascript
+npm start
+```
 =============== ANÁLISES/INDICAÇÕES (FONTES DE PESQUISA)=============
 
 COMUNIDADE DE I.A. E FONTE DE REPOSITORIOS:
